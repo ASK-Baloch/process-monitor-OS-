@@ -1,0 +1,80 @@
+=====================================
+   🖥️  Top 5 Processes Monitor (CPU)   
+=====================================
+
+Scan Time: Sun Jun 15 20:23:25 PKT 2025
+
+PID	USER	%CPU	COMMAND
+    PID USER     %CPU COMMAND
+    327 root      8.4 snapfuse
+    354 root      1.1 snapd
+      1 root      0.8 systemd
+    328 root      0.5 snapfuse
+     95 root      0.3 systemd-journal
+
+Kill Action: FAILED
+-------------------------------------
+=====================================
+   🖥️  Top 5 Processes Monitor (CPU)   
+=====================================
+
+Scan Time: Sun Jun 15 20:23:31 PKT 2025
+
+PID	USER	%CPU	COMMAND
+    PID USER     %CPU COMMAND
+    327 root      6.9 snapfuse
+    354 root      0.9 snapd
+      1 root      0.7 systemd
+    328 root      0.4 snapfuse
+      8 root      0.2 init
+
+Kill Action: SKIPPED
+-------------------------------------
+=====================================
+   🖥️  Top 5 Processes Monitor (CPU)   
+=====================================
+
+Scan Time: Sun Jun 15 20:23:39 PKT 2025
+
+PID	USER	%CPU	COMMAND
+    PID USER     %CPU COMMAND
+    327 root      6.6 snapfuse
+    354 root      0.8 snapd
+      1 root      0.7 systemd
+    328 root      0.4 snapfuse
+      8 root      0.2 init
+
+Kill Action: SKIPPED
+-------------------------------------
+=====================================
+   🖥️  Top 5 Processes Monitor (CPU)   
+=====================================
+
+Scan Time: Sun Jun 15 20:25:40 PKT 2025
+
+PID	USER	%CPU	COMMAND
+    PID USER     %CPU COMMAND
+    327 root      3.3 snapfuse
+      1 root      0.4 systemd
+    354 root      0.4 snapd
+    328 root      0.2 snapfuse
+      8 root      0.1 init
+
+Kill Action: SKIPPED
+-------------------------------------
+=====================================
+   🖥️  Top 5 Processes Monitor (CPU)   
+=====================================
+
+Scan Time: Sun Jun 15 20:26:58 PKT 2025
+
+PID	USER	%CPU	COMMAND
+    PID USER     %CPU COMMAND
+    327 root      2.4 snapfuse
+      1 root      0.3 systemd
+    354 root      0.3 snapd
+      8 root      0.1 init
+    125 root      0.1 systemd-udevd
+
+Kill Action: SKIPPED
+-------------------------------------
