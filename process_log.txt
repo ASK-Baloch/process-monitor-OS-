@@ -78,3 +78,19 @@ PID	USER	%CPU	COMMAND
 
 Kill Action: SKIPPED
 -------------------------------------
+=====================================
+   🖥️  Top 5 Processes Monitor (CPU)   
+=====================================
+
+Scan Time: Mon Jun 16 11:44:27 PKT 2025
+
+PID	USER	%CPU	COMMAND
+    PID USER     %CPU COMMAND
+    364 root      6.9 snapfuse
+    397 root      1.0 snapd
+      1 root      0.5 systemd
+    365 root      0.4 snapfuse
+      8 root      0.2 init
+
+Kill Action: FAILED
+-------------------------------------
