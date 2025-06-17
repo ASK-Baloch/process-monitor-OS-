@@ -32,6 +32,7 @@ PID     USER    %CPU    COMMAND
 1789    ahmed   30.3    code
 ...
 ```
+![Alt text](WhatsApp Image 2025-06-17 at 00.15.05)
 
 ## 📚 Viva Questions
 
