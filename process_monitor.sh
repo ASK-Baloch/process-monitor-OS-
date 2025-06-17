@@ -28,7 +28,7 @@ if [[ "$choice" == "y" || "$choice" == "Y" ]]; then
     echo "✅ Process $pid_to_kill terminated."
     kill_result="SUCCESS"
   else
-    echo "❌ Failed to kill process $pid_to_kill. It may not exist or you lack permission."
+    echo "❌ Failed to kill process $pid_to_kill. Itmay be Root Processes or you dont have Access to terminate it."
     kill_result="FAILED"
   fi
 else

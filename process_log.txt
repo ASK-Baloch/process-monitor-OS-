@@ -94,3 +94,51 @@ PID	USER	%CPU	COMMAND
 
 Kill Action: FAILED
 -------------------------------------
+=====================================
+   🖥️  Top 5 Processes Monitor (CPU)   
+=====================================
+
+Scan Time: Tue Jun 17 09:37:22 PKT 2025
+
+PID	USER	%CPU	COMMAND
+    PID USER     %CPU COMMAND
+    397 root      0.8 snapd
+      1 root      0.3 systemd
+    107 root      0.1 systemd-journal
+    364 root      0.1 snapfuse
+      2 root      0.0 init-systemd(Ub
+
+Kill Action: FAILED
+-------------------------------------
+=====================================
+   🖥️  Top 5 Processes Monitor (CPU)   
+=====================================
+
+Scan Time: Tue Jun 17 10:02:05 PKT 2025
+
+PID	USER	%CPU	COMMAND
+    PID USER     %CPU COMMAND
+    397 root      0.7 snapd
+      1 root      0.3 systemd
+    107 root      0.1 systemd-journal
+    364 root      0.1 snapfuse
+      2 root      0.0 init-systemd(Ub
+
+Kill Action: FAILED
+-------------------------------------
+=====================================
+   🖥️  Top 5 Processes Monitor (CPU)   
+=====================================
+
+Scan Time: Tue Jun 17 10:08:41 PKT 2025
+
+PID	USER	%CPU	COMMAND
+    PID USER     %CPU COMMAND
+    397 root      0.7 snapd
+      1 root      0.3 systemd
+    364 root      0.1 snapfuse
+      2 root      0.0 init-systemd(Ub
+      8 root      0.0 init
+
+Kill Action: FAILED
+-------------------------------------

@@ -33,6 +33,11 @@ PID     USER    %CPU    COMMAND
 ...
 ```
 
+![IMAGE1](img1.jpeg)
+![IMAGE2](img2.jpeg)
+![IMAGE3](img3.jpeg)
+
+
 ## 📚 Viva Questions
 
 1. **What does this script do?**  
