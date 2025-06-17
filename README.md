@@ -41,22 +41,3 @@ PID     USER    %CPU    COMMAND
 =======
 
 
-## 📚 Viva Questions
-
-1. **What does this script do?**  
-   It shows the top 5 running processes consuming the most CPU using `ps`.
-
-2. **Which language is used?**  
-   Bash (Shell scripting).
-
-3. **What is the command used to fetch processes?**  
-   `ps -eo pid,user,%cpu,comm --sort=-%cpu`
-
-4. **What is `ps`?**  
-   It stands for “process status” and is used to show currently running processes.
-
-5. **Why use `head -n 6`?**  
-   First line is header, then top 5 processes = 6 lines total.
-
-6. **How is this an OS-level project?**  
-   It interacts with process management, which is a core part of operating systems.
