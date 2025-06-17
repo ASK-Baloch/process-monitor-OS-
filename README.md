@@ -34,12 +34,12 @@ PID     USER    %CPU    COMMAND
 ```
 
 <<<<<<< HEAD
-![IMAGE1](img1.jpeg)
-![IMAGE2](img2.jpeg)
-![IMAGE3](img3.jpeg)
+![IMAGE1](codeimg.jpeg)
+![IMAGE2](outputimg.jpeg)
+![IMAGE3](readmeimg.jpeg)
 
 =======
->>>>>>> 3aad0eb9d9b7c3b36e2dbbb1b0a6e6b969483b12
+
 
 ## 📚 Viva Questions
 

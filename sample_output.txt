@@ -1,12 +1,17 @@
 =====================================
-   🖥️  Top 5 Processes Monitor (CPU)   
+   🖥️  Top 5 Processes Monitor (CPU)
 =====================================
 
-Scan Time: Sun Jun 16 18:01:23 PKT 2025
+Scan Time: Tue Jun 17 22:18:45 PKT 2025
 
 PID     USER    %CPU    COMMAND
-2123    ahmed   42.0    chrome
-1789    ahmed   30.3    code
-1221    root    15.7    gnome-shell
-1532    root    8.3     Xorg
-981     ahmed   2.4     bash
+    PID USER     %CPU COMMAND
+   3146 ahmed    24.0 process_monitor
+      1 root      0.5 systemd
+    397 root      0.4 snapd
+    107 root      0.1 systemd-journal
+      2 root      0.0 init-systemd(Ub
+
+❓ Do you want to kill any of these processes? (y/n): y
+🔪 Enter the PID to kill: 3146
+Killed
